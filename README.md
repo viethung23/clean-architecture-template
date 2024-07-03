@@ -18,15 +18,15 @@ This is a sample WEBAPI project using clean architecture, .NET 8, and the latest
 8. Pagination
 
 
-### run with VSCode
+## run with VSCode
 cd to the ```clean-architecture-template``` folder run command below
 ```
 dotnet run --project .\src\CleanArchitectureTemplate.API\
 ```
-### run with VisualStudio
+## run with VisualStudio
 open file ```clean-architecture-template.sln``` and run
 
-# EF migration
+## EF migration
 1. install global tool to make migration(do only 1 time & your machine is good to go for the next)
 ```
 dotnet tool install --global dotnet-ef
@@ -46,3 +46,5 @@ dotnet ef database update -s .\src\CleanArchitectureTemplate.API\ -p .\src\Clean
 
 
 ## License
+
+[MIT]
