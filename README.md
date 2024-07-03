@@ -9,13 +9,14 @@ This is a sample WEBAPI project using clean architecture, .NET 8, and the latest
 ## Frameworks - Libraries - Pattern
 
 1. Entity Framework core 
-2. Mapster
-3. Fluent Validation
-4. MediaR (CQRS)
-5. GenericRepository
-6. UnitOfWork 
-7. ExceptionHandler
-8. Pagination
+2. Identity 
+3. Mapster
+4. Fluent Validation
+5. MediaR (CQRS)
+6. GenericRepository
+7. UnitOfWork 
+8. ExceptionHandler
+9. Pagination
 
 
 ## run with VSCode
